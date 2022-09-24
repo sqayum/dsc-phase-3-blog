@@ -1,14 +1,6 @@
 
 # Deep Network Architecture
 
-
-## Objectives
-
-- Define the term **deep neural network**
-- Describe the advantage of using a deep network architecture
-- Mathematically represent a generalized form of forward propogation in a deep neural network
-- Mathematically represent a generalized form of backpropagation in a deep neural network
-
 ## Advantage of Deep Network Architectures
 
 The term **shallow neural network** typically refers networks with just a single hidden layer whereas the term **deep neural network** generally refers to networks with more than one hidden layer. Deep neural networks are also referred to as **deep-learning networks**.
@@ -137,3 +129,5 @@ The dimensions of all parameters involved in forward propogation are:
 >   dz^{[l]}, da^{[l]}:& \ \  (n^{[l]}, 1) \\
 >   d\bold Z^{[l]}, d\bold A^{[l]}:& \ \  (n^{[l]}, m) \\
 > \end{align*} $$**
+
+<center><img src="Deep Network Architecture.pdf" width=275></center>
