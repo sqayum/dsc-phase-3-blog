@@ -47,7 +47,7 @@ $$ \begin{align*}
 
 A forward pass through layer $l$ of a deep $L$-layer network is shown in the function diagram below:
 
-<center><img src="images/forward-pass.png" width=275></center>
+<center><img src="images/forward-pass.PNG" width=275></center>
 
 The **non-vectorized** equations describing forward propogation through layer $l$ of a deep $L$-layer network are:
 
@@ -78,7 +78,7 @@ The dimensions of all parameters involved in forward propogation are:
 
 A backward pass through layer $l$ of a deep $L$-layer network is shown in the function diagram below:
 
-<center><img src="images/backward-pass.png" width=275></center>
+<center><img src="images/backward-pass.PNG" width=275></center>
 
 The **non-vectorized** equations describing forward propogation through layer $l$ of a deep $L$-layer network are:
 
